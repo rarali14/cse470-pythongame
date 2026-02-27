@@ -1,1 +1,1 @@
-# cse470-demo
+Building a python snake game and describing the game code following MVC structure. The project analyzes how a developed game follows a software architectural pattern that separates applications into three interconnected components—Model (data/logic), View (UI/display), and Controller (input handler/mediator) in order to improve organization, scalability, and maintainability. It promotes separation of concerns, allowing parallel development.
